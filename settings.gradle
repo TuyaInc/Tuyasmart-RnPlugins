@@ -1,0 +1,4 @@
+include ':tyrctmusicmanager'
+include ':tyrctpublicmanager'
+include ':tyrctpanelmanager'
+rootProject.name = "Tuyasmart-RnPlugins"
