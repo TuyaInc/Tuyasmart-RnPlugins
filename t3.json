@@ -1,0 +1,202 @@
+[
+    {
+        "name": "tuyasmart-ipc-camera-doorbellpanel",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-ipc-camera-devicecontrol",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-ipc-camera-cloudpanel",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-ipc-camera-blackpanel",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-camerauiview",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-cameraUI",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-shortcutoarser",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-shortcutparser",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-TuyaRNApi-sweeper",
+        "linked": false
+    },
+    {
+        "name": "rctvideomanager",
+        "linked": false
+    },
+    {
+        "name": "tyrctgesturelockviewmanager",
+        "linked": false
+    },
+    {
+        "name": "tyrcthomedevmanager",
+        "linked": false
+    },
+    {
+        "name": "tyrctavsmanager",
+        "linked": false
+    },
+    {
+        "name": "tyrctbluetoothutilmanager",
+        "linked": false
+    },
+    {
+        "name": "tyrctcountryselectmanager",
+        "linked": false
+    },
+    {
+        "name": "tyrcthomemanager",
+        "linked": false
+    },
+    {
+        "name": "tyrctmqttmanager",
+        "linked": false
+    },
+    {
+        "name": "tyrctmultiimagepickermanager",
+        "linked": false
+    },
+    {
+        "name": "tyrctnavmanager",
+        "linked": false
+    },
+    {
+        "name": "tyrctscenepanelmanager",
+        "linked": false
+    },
+    {
+        "name": "tyrctstandardgroupmanager",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-tuya-mist-litho-base",
+        "linked": false
+    },
+    {
+        "name": "mist-litho-fresco",
+        "linked": false
+    },
+    {
+        "name": "mist-litho-sections-widget",
+        "linked": false
+    },
+    {
+        "name": "mist-litho-widget",
+        "linked": false
+    },
+    {
+        "name": "mist-litho",
+        "linked": false
+    },
+    {
+        "name": "mist-litho-sections-core",
+        "linked": false
+    },
+    {
+        "name": "mist-litho-core",
+        "linked": false
+    },
+    {
+        "name": "mist-litho-annotation",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-scene",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-scene-business-api",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-speech",
+        "linked": false
+    },
+    {
+        "name": "react-native-reanimated",
+        "linked": false
+    },
+    {
+        "name": "react-native-safe-area-context",
+        "linked": false
+    },
+    {
+        "name": "react-native-screens",
+        "linked": false
+    },
+    {
+        "name": "optimus",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-commonbiz-bizbundle-family-api",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-commonbiz-bizbundle",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-message",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-message-api",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-feedback-api",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-feedback",
+        "linked": false
+    },
+    {
+        "name": "net-diagnosis",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-netdiagnosisApi",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-netdiagnosis",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-security-basesdk",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-uispecs-shortcut-view",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-tuyahomesdk-hardware",
+        "linked": false
+    },
+    {
+        "name": "socket-sdk",
+        "linked": false
+    },
+    {
+        "name": "tuya-mqttv3",
+        "linked": false
+    }
+]

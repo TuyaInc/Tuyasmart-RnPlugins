@@ -1,0 +1,94 @@
+[
+    {
+        "name": "tyrctencryptimagedownloadmanager",
+        "linked": false
+    },
+    {
+        "name": "tyrcthuecircleview",
+        "linked": false
+    },
+    {
+        "name": "tyrctlasermanager",
+        "linked": false
+    },
+    {
+        "name": "tyrctlinechartview",
+        "linked": false
+    },
+    {
+        "name": "tyrctmusicmanager",
+        "linked": false
+    },
+    {
+        "name": "tyrctnumberpicker",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-centralcontrol",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-sdk-api",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-network",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-baselib",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-hardware",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-mqtt",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-bluetooth",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-device",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-geofence",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-user",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-homelib",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-personallib",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-scenelib",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-log",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-cameralib",
+        "linked": false
+    },
+    {
+        "name": "tuyasmart-sweeper",
+        "linked": false
+    }
+]
